@@ -1,4 +1,4 @@
-import math 
+import math
 
 """ nombre = input("¿Cual es tu nombre?")
 edad = int(input("¿Cual es tu edad?"))
@@ -38,3 +38,4 @@ df = pd.read_csv("clash_royale_cards.csv")
 
 print("las primeras 5 filas de mi csv")
 print(df.head(10))
+
